@@ -1,2 +1,3 @@
-# nutribody-uploader-site
-Homepage and privacy policy for NutriBody Uploader (si.id.vn)
+# NutriBody Uploader site
+
+Public homepage + privacy for OAuth branding at https://si.id.vn/
